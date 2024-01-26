@@ -4,7 +4,6 @@
 require(reshape)
 require(dplyr)
 
-
 convert_cohort_vectors_to_df <- function(cohort_vectors) {
   
   # Convert transition matrices array to a dataframe
